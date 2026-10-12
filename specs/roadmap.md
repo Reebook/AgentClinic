@@ -5,11 +5,11 @@ end with a working, reviewable result before the next phase begins.
 
 ## Phases
 
-1. **Agree on the first-release boundaries** — Confirm primary agent and staff
-   journeys; record unresolved backend, data, identity, and hosting decisions.
-2. **Create the application foundation** — Set up a strict-TypeScript
-   Next.js App Router project with server-side application logic, basic
-   quality checks, and a reproducible local start.
+1. **Agree on the first-release boundaries** ✅ — Confirm primary agent and
+   staff journeys; record unresolved backend, data, identity, and hosting
+   decisions. (Also delivered a minimal Next.js home page.)
+2. **Create the application foundation** — Build on the Phase 1 Next.js setup
+   and home page: server-side application logic and basic quality checks.
 3. **Add the visual shell** — Build responsive navigation, page structure, and
    the initial warm, playful visual direction.
 4. **Add the agent landing page** — Show a clear welcome and entry points to
